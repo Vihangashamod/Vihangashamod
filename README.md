@@ -1,8 +1,8 @@
 ### Vihanga Shamod
 
-Software engineer based in Colombo, Sri Lanka. I build native macOS tools in Swift, web products, and small utilities that solve real problems without unnecessary complexity.
+I build software. Mostly native macOS tools in Swift, web products, and developer utilities — things that work fast and don't get in the way.
 
-Most of my work is open source. If something costs me time repeatedly, I turn it into a tool.
+Lately I'm thinking more about the architecture layer: how systems are designed, where decisions get made, and what makes a build hold up at scale. That's the direction I'm moving.
 
 ---
 
