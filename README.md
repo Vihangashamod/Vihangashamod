@@ -8,6 +8,8 @@ Lately I'm thinking more about the architecture layer: how systems are designed,
 
 **Projects**
 
+[**PosX**](https://github.com/Vihangashamod/InfiaxPOS) — Full-scale restaurant POS built for and running at Sugath Food Center, Boralesgamuwa. 88-dish menu, offline-first SQLite, kitchen order tickets, ESC/POS thermal printing, Pay Later credit accounts, shift management. Electron desktop + browser. v5.21.0 in daily production use. Electron 44 · React 19 · TypeScript · SQLite · Supabase.
+
 [**vitals**](https://github.com/Vihangashamod/Vitals) — Native Swift system monitor for the macOS terminal. Real-time CPU, GPU, memory, battery, and thermal telemetry. Zero dependencies, no sudo.
 
 [**NetSpeed-mac**](https://github.com/Vihangashamod/NetSpeed-mac) — Menu bar network speed monitor for macOS. Uses 64-bit interface counters, filters VPN/bridge interfaces, universal binary for Apple Silicon + Intel.
@@ -20,7 +22,7 @@ Lately I'm thinking more about the architecture layer: how systems are designed,
 
 **Stack**
 
-Swift · React · TypeScript · Firebase · Node.js · Bash · Astro · Cloudflare
+Swift · Electron · React · TypeScript · SQLite · Supabase · Firebase · Node.js · Bash · Astro · Cloudflare
 
 ---
 
